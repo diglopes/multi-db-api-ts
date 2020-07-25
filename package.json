@@ -1,0 +1,20 @@
+{
+  "name": "multi-db-api-ts",
+  "version": "0.1.0",
+  "description": "A multi database application using Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diglopes/multi-db-api-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diglopes/multi-db-api-ts/issues"
+  },
+  "homepage": "https://github.com/diglopes/multi-db-api-ts#readme"
+}
