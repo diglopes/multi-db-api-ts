@@ -36,6 +36,8 @@ The main purpose of building this app is to improve my Typescript knowledge, and
     - [ ] **GET** /battles
     - [ ] **GET** /battles/{id}
     - [ ] **POST** /battles
+- [ ] Swagger documentation
+- [ ] 100% test coverage
 
 ## Data models
 
