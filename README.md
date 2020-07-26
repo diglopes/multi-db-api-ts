@@ -20,7 +20,7 @@ The main purpose of building this app is to improve my Typescript knowledge, and
 
 - [X] Configure commit linter to conventional commit convention
 - [X] Configure code linter to Standardjs
-- [ ] Configure Typescript to production and development
+- [X] Configure Typescript to production and development
 - [ ] Configure environment with Docker and Docker-compose
   - [ ] Production
   - [ ] Development
