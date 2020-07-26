@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/diglopes/multi-db-api-ts/issues"
   },
-  "homepage": "https://github.com/diglopes/multi-db-api-ts#readme"
+  "homepage": "https://github.com/diglopes/multi-db-api-ts#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
