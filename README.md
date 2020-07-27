@@ -19,8 +19,9 @@ The main purpose of building this app is to improve my Typescript knowledge, and
 ## Roadmap
 
 - [X] Configure commit linter to conventional commit convention
-- [X] Configure code linter to Standardjs
+- [X] Configure code linter to Standard convention
 - [X] Configure Typescript to production and development
+- [ ] Configure the project for tests
 - [ ] Configure environment with Docker and Docker-compose
   - [ ] Production
   - [ ] Development
