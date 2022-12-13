@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "cross-env": "^7.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pm2": "^4.4.0"
   }
 }
